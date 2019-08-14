@@ -3,6 +3,6 @@
 
 Status      Percentage   Numbers     
 ----------- ------------ ------------
-ACTIVE      51%          63578       
-INACTIVE    48%          60371       
+ACTIVE      51%          64315       
+INACTIVE    48%          61082       
 INVALID     0%           0           
