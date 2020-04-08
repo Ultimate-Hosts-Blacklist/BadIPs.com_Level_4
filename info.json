@@ -20,6 +20,8 @@
     "last_autosave_datetime": "2020-03-03T16:10:03.970981",
     "last_autosave_epoch": 1582475787.075449,
     "name": "BadIPs.com_Level_4",
+    "link": "http://www.badips.com/get/list/any/4?age=12",
+    "issue_link": "https://www.badips.com/documentation#3",
     "previous_stats": {
         "builds": 225,
         "clean.list": 62428,
